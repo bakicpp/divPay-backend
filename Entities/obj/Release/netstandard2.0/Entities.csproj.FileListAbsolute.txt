@@ -1,0 +1,10 @@
+/Users/baki/Projects/MyFinalProject/Entities/bin/Release/netstandard2.0/Entities.deps.json
+/Users/baki/Projects/MyFinalProject/Entities/bin/Release/netstandard2.0/Entities.dll
+/Users/baki/Projects/MyFinalProject/Entities/bin/Release/netstandard2.0/Entities.pdb
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.csproj.AssemblyReference.cache
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.AssemblyInfoInputs.cache
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.AssemblyInfo.cs
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.csproj.CoreCompileInputs.cache
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.dll
+/Users/baki/Projects/MyFinalProject/Entities/obj/Release/netstandard2.0/Entities.pdb

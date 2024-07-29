@@ -1,0 +1,17 @@
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/ConsoleUI.deps.json
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/ConsoleUI.dll
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/ConsoleUI.pdb
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/Business.dll
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/DataAccess.dll
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/Entities.dll
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/Business.pdb
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/DataAccess.pdb
+/Users/baki/Projects/MyFinalProject/ConsoleUI/bin/Release/netstandard2.0/Entities.pdb
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.AssemblyInfo.cs
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.csproj.CopyComplete
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.dll
+/Users/baki/Projects/MyFinalProject/ConsoleUI/obj/Release/netstandard2.0/ConsoleUI.pdb

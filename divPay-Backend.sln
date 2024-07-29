@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{77ECBD4A-E84F-4D7F-8C03-7F83938C05D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{A74C76B3-393E-48D1-845C-21B91ED56552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A12EBD56-44EF-4D79-B904-6F64B2A1C7B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{496A0DAA-545E-4093-811A-7BA5DAC1EEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{76489C5C-30A4-4B95-AD16-48C52C1B0684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ECBD4A-E84F-4D7F-8C03-7F83938C05D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ECBD4A-E84F-4D7F-8C03-7F83938C05D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ECBD4A-E84F-4D7F-8C03-7F83938C05D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ECBD4A-E84F-4D7F-8C03-7F83938C05D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74C76B3-393E-48D1-845C-21B91ED56552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74C76B3-393E-48D1-845C-21B91ED56552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74C76B3-393E-48D1-845C-21B91ED56552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74C76B3-393E-48D1-845C-21B91ED56552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12EBD56-44EF-4D79-B904-6F64B2A1C7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12EBD56-44EF-4D79-B904-6F64B2A1C7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12EBD56-44EF-4D79-B904-6F64B2A1C7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12EBD56-44EF-4D79-B904-6F64B2A1C7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496A0DAA-545E-4093-811A-7BA5DAC1EEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496A0DAA-545E-4093-811A-7BA5DAC1EEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496A0DAA-545E-4093-811A-7BA5DAC1EEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496A0DAA-545E-4093-811A-7BA5DAC1EEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76489C5C-30A4-4B95-AD16-48C52C1B0684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76489C5C-30A4-4B95-AD16-48C52C1B0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76489C5C-30A4-4B95-AD16-48C52C1B0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76489C5C-30A4-4B95-AD16-48C52C1B0684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942B0A36-81A0-4506-A6AA-E020BE6A162D}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
+EndGlobal

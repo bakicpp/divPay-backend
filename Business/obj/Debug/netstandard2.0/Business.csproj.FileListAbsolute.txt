@@ -1,0 +1,17 @@
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Business.deps.json
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Business.dll
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Business.pdb
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Core.dll
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/DataAccess.dll
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Entities.dll
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Entities.pdb
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/Core.pdb
+/Users/baki/Projects/MyFinalProject/Business/bin/Debug/netstandard2.0/DataAccess.pdb
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.csproj.AssemblyReference.cache
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.AssemblyInfoInputs.cache
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.AssemblyInfo.cs
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.csproj.CoreCompileInputs.cache
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.csproj.CopyComplete
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.dll
+/Users/baki/Projects/MyFinalProject/Business/obj/Debug/netstandard2.0/Business.pdb

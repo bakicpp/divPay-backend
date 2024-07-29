@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <LangVersion>default</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <LangVersion>default</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="DataAccess\" />
+    <None Remove="Entities\" />
+    <None Remove="DataAccess\EntityFramework\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Results\" />
+    <None Remove="CrossCuttingConcerns\" />
+    <None Remove="Utilities\Interceptors\" />
+    <None Remove="Aspects\" />
+    <None Remove="Aspects\Autofac\" />
+    <None Remove="Aspects\Autofac\Validation\" />
+    <None Remove="Utilities\Business\" />
+    <None Remove="Entities\Concrete\" />
+    <None Remove="Utilities\Security\" />
+    <None Remove="Utilities\Security\Encryption\" />
+    <None Remove="Utilities\Security\Hashing\" />
+    <None Remove="Utilities\Security\JWT\" />
+    <None Remove="Extensions\" />
+    <None Remove="Utilities\IoC\" />
+    <None Remove="DependencyResolver\" />
+    <None Remove="CrossCuttingConcerns\Caching\" />
+    <None Remove="CrossCuttingConcerns\Caching\Microsoft\" />
+    <None Remove="CrossCuttingConcerns\Caching\Redis\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataAccess\" />
+    <Folder Include="Entities\" />
+    <Folder Include="DataAccess\EntityFramework\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Results\" />
+    <Folder Include="CrossCuttingConcerns\" />
+    <Folder Include="Utilities\Interceptors\" />
+    <Folder Include="Aspects\" />
+    <Folder Include="Aspects\Autofac\" />
+    <Folder Include="Aspects\Autofac\Validation\" />
+    <Folder Include="Utilities\Business\" />
+    <Folder Include="Entities\Concrete\" />
+    <Folder Include="Utilities\Security\" />
+    <Folder Include="Utilities\Security\Encryption\" />
+    <Folder Include="Utilities\Security\Hashing\" />
+    <Folder Include="Utilities\Security\JWT\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Utilities\IoC\" />
+    <Folder Include="DependencyResolver\" />
+    <Folder Include="CrossCuttingConcerns\Caching\" />
+    <Folder Include="CrossCuttingConcerns\Caching\Microsoft\" />
+    <Folder Include="CrossCuttingConcerns\Caching\Redis\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+    <PackageReference Include="FluentValidation" Version="9.5.1" />
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+</Project>

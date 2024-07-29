@@ -1,0 +1,10 @@
+/Users/baki/Projects/MyFinalProject/Core/bin/Debug/netstandard2.0/Core.deps.json
+/Users/baki/Projects/MyFinalProject/Core/bin/Debug/netstandard2.0/Core.dll
+/Users/baki/Projects/MyFinalProject/Core/bin/Debug/netstandard2.0/Core.pdb
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.csproj.AssemblyReference.cache
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.dll
+/Users/baki/Projects/MyFinalProject/Core/obj/Debug/netstandard2.0/Core.pdb
